@@ -55,6 +55,6 @@ N'hésitez pas à me contacter pour discuter technologie ou opportunités !
 
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mathispaolini&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathispaolini&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathispaolini&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathispaolini&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>

@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/mathis-paolini-859a48343/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Disponible_pour_Alternance- success?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Disponible_pour_Alternance-success?style=for-the-badge" alt="Status" />
   </p>
 
   <p align="center">
@@ -73,8 +73,11 @@ Voici les technologies, outils et environnements que je maîtrise et utilise au 
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathispaolini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=10b981" alt="Mathis's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathispaolini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3b82f6" alt="Top Languages" />
+
+![Mathis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathispaolini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=10b981)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathispaolini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3b82f6)
+
 </div>
 
 ---

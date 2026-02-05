@@ -1,58 +1,35 @@
 <div align="center">
-  <img src="https://www.gif-maniac.com/gifs/50/49779.gif" width="80" />
-  <h1 style="font-size: 3em; font-weight: bold;">Salut, je suis Mathis Paolini !</h1>
-  
-  ### 🎓 Étudiant BTS SIO - Option SISR  
-  *(Solutions d'Infrastructures, Systèmes et Réseaux)*
-  
-  <br>
-
-  <a href="https://www.linkedin.com/in/mathis-paolini-859a48343/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+ 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MATHIS+PAOLINI;ADMIN+SYS+%26+RÉSEAUX;FUTUR+EXPERT+CYBER;ÉTUDIANT+BTS+SIO" alt="Typing SVG" />
   </a>
-  <img src="https://img.shields.io/badge/Status-En_Recherche_d'Alternance-success?style=for-the-badge" alt="Status" />
 
-  <br><br>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+
   <p>
-    <b>Passionné par l'administration système et la cybersécurité.</b><br>
-    Basé en <b>Normandie</b> 🇫🇷, je construis mon expertise à travers des projets concrets et des certifications.
+    <a href="https://www.linkedin.com/in/mathis-paolini-859a48343/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connectez_vous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:paolinimathis@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://mathispaolini.github.io/mon-portfolio/">
+      <img src="https://img.shields.io/badge/Website-Mon_Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
   </p>
 </div>
 
 ---
 
-## 🛠️ Compétences Techniques
+### 👨‍💻 `whoami`
 
-| Domaine | Technologies Maîtrisées |
-| :--- | :--- |
-| **Réseau** | Cisco IOS (VLAN, ACL, OSPF), Packet Tracer, Wireshark |
-| **Système** | Windows Server (AD, DNS, GPO), Linux Debian (Bash, LAMP) |
-| **Virtualisation** | VMware ESXi, Proxmox, VirtualBox |
-| **Outils** | GLPI, Git, PowerShell |
+```bash
+user@portfolio:~$ neofetch
 
----
-
-## 💼 Expériences
-
-* **2025 - 2026 : Stage @ B'Plast** (Industrie)  
-    *Administration Réseau, Supervision & Déploiement.*
-* **2025 : Stage @ Centre François Baclesse** (Santé)  
-    *Support N1/N2, Active Directory, Wi-Fi sécurisé.*
-
----
-
-## 📜 Certifications
-
-* [x] **SecNumAcadémie** (ANSSI)
-* [x] **Certification PIX**
-* [x] **Cisco Introduction to Cybersecurity**
-
----
-
-<div align="center">
-  <h3>📫 Me Contacter</h3>
-  <a href="mailto:paolinimathis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-paolinimathis@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
+> OS: BTS SIO (Option SISR)
+> Host: CaenSup Sainte-Ursule
+> Uptime: 2 Years (Formation)
+> Role: Network & System Administrator
+> Location: Normandie, France 🇫🇷
+> Mission: Recherche d'alternance (Licence Pro / Bachelor)
+> Status: 🟢 Online & Ready to deploy

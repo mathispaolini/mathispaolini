@@ -5,10 +5,10 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=MATHIS+PAOLINI;ADMINISTRATEUR+SYSTÈMES+%26+RÉSEAUX;FUTUR+EXPERT+CYBERSÉCURITÉ;ÉTUDIANT+BTS+SIO+SISR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=MATHIS+PAOLINI;ADMINISTRATEUR+SYSTÈMES;FUTUR+EXPERT+CYBER;BTS+SIO+SISR" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/mathis-paolini-859a48343/">
 <img src="https://img.shields.io/badge/LinkedIn-Connectons_nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,26 +24,61 @@
 
 ---
 
-# 👨‍💻 À propos de moi
+## 👨‍💻 À propos de moi
 
-> *"La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous réunissons la théorie et la pratique."*
+> *"L'informatique n'est pas seulement une question de machines, c'est une question de résolution de problèmes."*
 
-Passionné par l'informatique depuis mon plus jeune âge, je suis actuellement étudiant en **BTS SIO (Services Informatiques aux Organisations)** option **SISR (Solutions d'Infrastructure, Systèmes et Réseaux)** à CaenSup Sainte-Ursule.
+Passionné par l'informatique, je suis étudiant en **BTS SIO option SISR** (Solutions d'Infrastructure, Systèmes et Réseaux) en Normandie. Mon objectif est de devenir **Expert en Cybersécurité**.
 
-Je ne me contente pas de "faire marcher" les choses. J'aime comprendre **l'architecture sous-jacente**, analyser les paquets qui traversent le réseau, et sécuriser chaque couche du modèle OSI. Mon objectif est d'évoluer vers une carrière d'**Expert en Cybersécurité**.
+* 🔭 **Actuellement :** Étudiant à CaenSup Sainte-Ursule
+* 🌱 **J'apprends :** La cybersécurité défensive (Blue Team) et l'architecture réseau
+* 💼 **Recherche :** Alternance pour Licence Pro / Bachelor
+* ⚡ **Localisation :** Normandie, France 🇫🇷
 
 ---
 
-# 🖥️ Identité Numérique
+## 🛠️ Compétences Techniques
 
-```bash
-root@mathis-server:~# neofetch
+### 🌐 Réseau & Infrastructure
+* **Cisco IOS :** VLANs, Trunking, Spanning Tree, ACLs.
+* **Routage :** OSPF, Routage statique & Inter-VLAN.
+* **Outils :** Packet Tracer, Wireshark.
 
-> OS .........: BTS SIO v2.0 (Option SISR)
-> Kernel .....: Administration Système & Réseau
-> Uptime .....: 2 ans (Formation Continue)
-> Shell ......: Bash & PowerShell
-> CPU ........: Curiosité & Logique @ 100%
-> RAM ........: Veille Technologique Active
-> Location ...: Normandie, France 🇫🇷
-> Status .....: 🟢 Open to Work (Alternance)
+### 💻 Systèmes & Serveurs
+* **Windows Server :** Active Directory, DNS, DHCP, GPO, MDT.
+* **Linux (Debian) :** Ligne de commande, Apache, Bind9, Permissions.
+* **Virtualisation :** VMware ESXi, Proxmox, VirtualBox.
+
+---
+
+## 💼 Expériences
+
+### 🏭 Stage Admin Réseau @ B'Plast (Industrie)
+**Déc 2025 - Fév 2026**
+* Refonte de l'architecture réseau (Switchs HP/Cisco).
+* Mise en place de supervision (Monitoring).
+* Support technique niveau 2.
+
+### 🏥 Stage Technicien @ Centre Baclesse (Santé)
+**Mai 2025 - Juin 2025**
+* Gestion Active Directory (Utilisateurs/Groupes).
+* Déploiement Wi-Fi sécurisé.
+* Masterisation de postes Windows.
+
+---
+
+## 🏆 Certifications
+
+* ✅ **SecNumAcadémie (ANSSI)**
+* ✅ **Certification PIX**
+* ✅ **Cisco Intro to Cybersecurity**
+* ✅ **Cisco Networking Basics**
+
+---
+
+<div align="center">
+<br>
+<img src="https://komarev.com/ghpvc/?username=mathispaolini&label=Vues+du+profil&color=38BDF8&style=flat-square" alt="Visiteurs" />
+<br><br>
+<i>© 2026 Mathis Paolini.</i>
+</div>
